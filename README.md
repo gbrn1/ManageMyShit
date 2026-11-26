@@ -31,5 +31,5 @@ Certifique-se de ter o **Python** instalado em sua máquina.
 
 ### 2. Clonar o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/gbrn1/ManageMyShit.git
 cd ManageMyShit
